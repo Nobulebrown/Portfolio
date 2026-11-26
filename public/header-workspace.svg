@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title">
+  <title id="title">Minimal laptop showing a terminal with a successful build</title>
+  <rect width="1600" height="420" fill="#f8fafc" />
+
+  <g stroke="#cbd5e1" stroke-width="1">
+    <path d="M120 0V420M320 0V420M520 0V420M720 0V420M920 0V420M1120 0V420M1320 0V420M1480 0V420" />
+  </g>
+
+  <rect x="280" y="28" width="1040" height="302" rx="20" fill="#0f172a" />
+  <rect x="306" y="54" width="988" height="250" rx="10" fill="#111c2e" />
+  <rect x="306" y="54" width="988" height="36" rx="10" fill="#172033" />
+  <text x="330" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#94a3b8">~/portfolio — zsh</text>
+  <rect x="1210" y="66" width="60" height="12" rx="6" fill="#334155" />
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">
+    <text x="330" y="132" fill="#64748b">$</text>
+    <text x="356" y="132" fill="#dcfce7">npm run build</text>
+    <text x="330" y="170" fill="#94a3b8">✓ Compiled successfully</text>
+    <text x="330" y="204" fill="#94a3b8">✓ Type checks passed</text>
+    <text x="330" y="238" fill="#86efac">Ready for production</text>
+    <rect x="330" y="256" width="10" height="18" fill="#16a34a" />
+  </g>
+
+  <path d="M240 330H1360L1420 372H180L240 330Z" fill="#cbd5e1" />
+  <rect x="720" y="346" width="160" height="8" rx="4" fill="#94a3b8" />
+  <ellipse cx="800" cy="390" rx="520" ry="12" fill="#e2e8f0" />
+</svg>
