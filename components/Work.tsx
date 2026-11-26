@@ -33,7 +33,7 @@ export default function Work() {
             <div className="relative aspect-[16/10] overflow-hidden border-b-2 border-brand/50 bg-surface">
               <Image
                 src={project.image}
-                alt={`Placeholder preview for ${project.title}`}
+                alt={`${project.title} project preview`}
                 fill
                 sizes="(max-width: 640px) 100vw, 50vw"
                 className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
